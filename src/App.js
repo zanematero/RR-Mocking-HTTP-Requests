@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <Row>
-        <Col>Github profile:</Col>
+        <Col>Github Profile Info:</Col>
       </Row>
     </div>
   );
